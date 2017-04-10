@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6D5F7929-2D47-4B0A-90D7-7EE8CBAED24C}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SVVVAPMaster Status">
+    <Files>
+      <File FileName="SVVVAPMaster Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SVVVAPMasterApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EB384BE6-9ACD-4D91-A7BF-AC3CE90D1F80" />
+  <MultiItemStartupConfigurations />
+</Properties>
