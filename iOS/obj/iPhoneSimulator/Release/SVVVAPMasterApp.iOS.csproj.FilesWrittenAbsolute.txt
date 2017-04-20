@@ -1,0 +1,16 @@
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Release/optimized/menu.png
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Release/optimized/
+/Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Release/SVVVAPMasterApp.iOS.exe.mdb
+/Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Release/SVVVAPMasterApp.iOS.exe
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Release/SVVVAPMasterApp.iOS.exe
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Release/SVVVAPMasterApp.iOS.exe.mdb
+/Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
+/Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.dll
+/Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.iOS.dll
+/Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Xaml.dll
+/Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Release/Calabash.dll
+/Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Release/SVVVAPMasterApp.dll

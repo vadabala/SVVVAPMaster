@@ -10,6 +10,7 @@
 /Bannu/Projects/SVVVAPMaster/Droid/obj/Debug/res/drawable-hdpi/icon.png
 /Bannu/Projects/SVVVAPMaster/Droid/obj/Debug/res/drawable-xhdpi/icon.png
 /Bannu/Projects/SVVVAPMaster/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Bannu/Projects/SVVVAPMaster/Droid/obj/Debug/res/drawable/menu.png
 /Bannu/Projects/SVVVAPMaster/Droid/obj/Debug/R.cs.flag
 /Bannu/Projects/SVVVAPMaster/Droid/bin/Debug/com.vadabala.svvvap.svvvapmaster-Signed.apk
 /Bannu/Projects/SVVVAPMaster/Droid/obj/Debug/uploadflags.txt

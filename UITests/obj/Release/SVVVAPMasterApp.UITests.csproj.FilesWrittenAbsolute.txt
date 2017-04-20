@@ -1,0 +1,5 @@
+/Bannu/Projects/SVVVAPMaster/UITests/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Bannu/Projects/SVVVAPMaster/UITests/bin/Release/SVVVAPMasterApp.UITests.dll
+/Bannu/Projects/SVVVAPMaster/UITests/obj/Release/SVVVAPMasterApp.UITests.dll
+/Bannu/Projects/SVVVAPMaster/UITests/bin/Release/nunit.framework.dll
+/Bannu/Projects/SVVVAPMaster/UITests/bin/Release/Xamarin.UITest.dll

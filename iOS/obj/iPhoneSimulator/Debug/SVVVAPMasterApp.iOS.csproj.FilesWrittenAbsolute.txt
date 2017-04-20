@@ -2,6 +2,7 @@
 /Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
 /Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
 /Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/menu.png
 /Bannu/Projects/SVVVAPMaster/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
 /Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Debug/SVVVAPMasterApp.iOS.exe.mdb
 /Bannu/Projects/SVVVAPMaster/iOS/bin/iPhoneSimulator/Debug/SVVVAPMasterApp.iOS.exe

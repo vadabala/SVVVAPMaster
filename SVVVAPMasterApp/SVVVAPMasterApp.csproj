@@ -30,6 +30,24 @@
   <ItemGroup>
     <EmbeddedResource Include="App.xaml" />
     <EmbeddedResource Include="SVVVAPMasterAppPage.xaml" />
+    <EmbeddedResource Include="svvapMasterUI.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VideosHome.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnnualEvents.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThursdaySabha.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MahaSabha.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -39,6 +57,25 @@
       <DependentUpon>SVVVAPMasterAppPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="svvapMasterUI.xaml.cs">
+      <DependentUpon>svvapMasterUI.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomePage.xaml.cs">
+      <DependentUpon>WelcomePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VideosHome.xaml.cs">
+      <DependentUpon>VideosHome.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AnnualEvents.xaml.cs">
+      <DependentUpon>AnnualEvents.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ThursdaySabha.xaml.cs">
+      <DependentUpon>ThursdaySabha.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MahaSabha.xaml.cs">
+      <DependentUpon>MahaSabha.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPageItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
